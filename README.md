@@ -1,6 +1,7 @@
 # hosts
 
+Hit your hosts file hard above your devices
 
 ```shell
-npm install -g https://github.com/francescobianco/hosts
+npm install -g francescobianco/hosts
 ```
