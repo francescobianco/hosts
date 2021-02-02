@@ -3,5 +3,5 @@
 Hit your hosts file hard above your devices
 
 ```shell
-npm install -g francescobianco/hosts
+npm install --global --unsafe-perm francescobianco/hosts
 ```
