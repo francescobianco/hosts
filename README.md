@@ -3,7 +3,7 @@
 Hit your hosts file hard above your devices
 
 ```shell
-npm install --global --unsafe-perm francescobianco/hosts
+sudo npm install --global --unsafe-perm francescobianco/hosts
 ```
 
 
