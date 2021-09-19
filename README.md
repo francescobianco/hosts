@@ -8,7 +8,7 @@ Hit your hosts file hard above your devices
 curl gitcat.tk/hosts | sudo python3 - francescobianco
 ```
 
-## Abandoed
+## Abandoned
 
 ```shell
 sudo npm install --global --unsafe-perm francescobianco/hosts
