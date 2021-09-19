@@ -5,7 +5,7 @@ Hit your hosts file hard above your devices
 ## Install hosts
 
 ```
-curl -s gitcat.tk | python3 - francescobianco
+curl gitcat.tk/hosts | python3 - francescobianco
 ```
 
 ## Abandoed
